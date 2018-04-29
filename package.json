@@ -1,0 +1,30 @@
+{
+  "name": "base-element-style",
+  "version": "1.0.0",
+  "description": "Base Element Style makes browsers render all elements more consistently and in line with modern standards.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://jakepintu.github.io/base-element-style/"
+  },
+  "keywords": [
+    "Html",
+    "Css",
+    "Responsive",
+    "Base Element Style", 
+    "Bootstrap 4"
+  ],
+  "author": "Mahendra Choudhary",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  }
+}
